@@ -11,13 +11,13 @@
 
 
 ### :heavy_check_mark: definir tipos:
-- [ ] Exercicio 1:
+- [x] Exercicio 1:
 ```js
 const primeiroNome = "seu nome";
 const diaDoMes = 12;
 const hojeFezSol = true;
 ```
-- [ ] Exercicio 2:
+- [x] Exercicio 2:
 ```js
 type Cachorrro = {
   nome: ?
@@ -35,9 +35,9 @@ interface Animais {
 }
 ```
 
-- [ ] Exercicio 3:
+- [x] Exercicio 3:
 Criar um type com a função Omit, uma com Partial  e uma com Optional
 
 
 ### :heavy_check_mark: Avaliação do que foi criado?
-- [ ] Implementar criando funções
+- [x] Implementar criando funções
