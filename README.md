@@ -3,11 +3,11 @@
 
 ### :heavy_check_mark: Instalação do ambiente:
 - [x] Intalação do Node versão Estavel
-- [ ] Instalar o typescript: npm install -g typescript 
-- [ ] Criar arquivo tsconfig
-- [ ] Criar o index.ts
-- [ ] Transpilar o Código para JS
-- [ ] quick fix
+- [x] Instalar o typescript: npm install -g typescript 
+- [x] Criar arquivo tsconfig
+- [x] Criar o index.ts
+- [x] Transpilar o Código para JS
+- [x] quick fix
 
 
 ### :heavy_check_mark: definir tipos:
